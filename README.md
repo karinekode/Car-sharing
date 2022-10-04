@@ -3,9 +3,10 @@ Optimised location, timings, and amount of vehicles to move, accounting for labo
 have to be moved between different charging points due to a difference in demand and varying popularity of pick-up/return points. 
 Trips were simulated & discrete optimisation was applied
 
+
 **View the Python notebook here: https://github.com/karinekode/Optimisation-carsharing/blob/main/Python%20Model%20-%20Carsharing%20Optimization%20for%20BlueSG.ipynb **
 
-**Read the business context & explanation here: https://karinekode.wixsite.com/folio/carsharing **
+Read the business context & explanation here: https://karinekode.wixsite.com/folio/carsharing 
 
 
 Data files used are: https://github.com/karinekode/Optimisation-carsharing/blob/main/data%20-%20EV%20cars (simulation of electronic vehicles) & https://github.com/karinekode/Optimisation-carsharing/blob/main/data%20-%20trip%20durations (list of trip durations) 
