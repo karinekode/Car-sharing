@@ -7,7 +7,7 @@ ______________
 
 __View the Python notebook here: https://github.com/karinekode/Optimisation-carsharing/blob/main/Python%20Model%20-%20Carsharing%20Optimization%20for%20BlueSG.ipynb__
 
-__Read the business context & explanation here: https://karinekode.wixsite.com/folio/carsharing__ 
+__Read the business context & explanation here: https://karinekode.wixsite.com/folio/optimisation__ 
 
 ______________
 
